@@ -1,0 +1,9 @@
+# Ignore the environment variables file
+server/.env
+
+# Ignore node modules (always do this!)
+node_modules/
+server/node_modules/
+
+# Ignore Mac system files
+.DS_Store
